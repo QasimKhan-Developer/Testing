@@ -1,3 +1,30 @@
 body {
-    background-color: aquamarine;
+    background-color: greenyellow;
+}
+
+.one {
+    background-color: blue;
+    color: white;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.two {
+    background-color: green;
+    color: white;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+li {
+    display: inline;
+    margin-left: 300px;
+    color: green;
+    border: 2px solid black;
+    bo
+}
+
+li:hover {
+    background-color: red;
+    color: black;
 }
